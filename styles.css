@@ -1,0 +1,23 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: black;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+h1{color:white
+;
+}
+h4{color:white
+;
+}
+body {
+  font-family: "Trirong Font", sans-serif;
+}
+
+.mcdonalds{display:none;}
+.wendys{display:none;}
+.pizzahut{display:none;}
+.papajohns{display:none;}
